@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="images">
+        <item>https://codelearn.io/Upload/Blog/cac-thanh-phan-co-ban-trong-android-63726855823.2143.jpg</item>
+        <item>https://thegioibantin.com/wp-content/uploads/2020/11/Android-main.jpg</item>
+        <item>https://nordvpn.com/wp-content/uploads/android-vs-ios-bg.png</item>
+
+
+    </string-array>
+</resources>
